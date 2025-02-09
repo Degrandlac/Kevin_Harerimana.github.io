@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me  
-I am a passionate AI Engineer and Computer Vision Specialist with a strong academic background and hands-on experience in developing AI-driven solutions. My expertise lies in building machine learning models, computer vision systems, and AI policies that promote inclusivity and equality. I am currently pursuing a Master's in Engineering Artificial Intelligence at Carnegie Mellon University, where I am working on cutting-edge projects like the Irembo LLM Chatbot and Malaria Digitization.
+I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, Computer Vision, AI Policy, and Computational Social Science**. My work revolves around developing innovative AI-driven solutions that address real-world challenges, from improving productivity to promoting inclusivity in AI tools. I am deeply interested in the intersection of technology and society, particularly how AI can be used to create equitable and sustainable systems. Currently, I am pursuing a Master's in Engineering Artificial Intelligence at Carnegie Mellon University, where I am working on cutting-edge projects like the Irembo LLM Chatbot and Malaria Digitization.Additionally, I am a **Research Group Member at the Center for AI and Digital Policy (CAIDP)**, where I contribute to global AI policy frameworks and human rights initiatives
 
 ---
 
@@ -31,6 +31,12 @@ I am a passionate AI Engineer and Computer Vision Specialist with a strong acade
 *May 2024 – Present*  
 - Built a deep learning model to detect malaria parasites in blood smears with 89% accuracy.  
 - Achieved an inference speed of 6.7 ms per image
+
+### **CAIDP Research Group Member**  
+*Center for AI and Digital Policy · Part-time*  
+*Jan 2025 – Present · United States (Hybrid)*  
+- Participating in CAIDP’s core activities in the context of the AI policy clinic, with a focus on human rights and global AI frameworks.  
+- Contributing to the analysis and implementation of global AI policies, including the **UNESCO Recommendation on the Ethics of AI**, the **OECD AI Principles**, the **EU AI Act**, and the **Council of Europe AI Treaty**.  
 
 ### **AI Policy Lab**  
 *Umeå University – Umeå, Sweden (Hybrid)*  
