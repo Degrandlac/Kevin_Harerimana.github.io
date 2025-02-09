@@ -1,11 +1,11 @@
 # Kevin Harerimana  
-**AI Engineer | Computer Vision Specialist | AI Policy Researcher**  
+**AI Saftey/Alignment | Computer Vision | AI Policy Researcher**  
 📍 Rwanda | 📧 kevinharerimana@outlook.com | 📞 +250792107463  
 
 ---
 
 ## 👋 About Me  
-I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, Computer Vision, AI Policy, and Computational Social Science**. My work revolves around developing innovative AI-driven solutions that address real-world challenges, from improving productivity to promoting inclusivity in AI tools. I am deeply interested in the intersection of technology and society, particularly how AI can be used to create equitable and sustainable systems. Currently, I am pursuing a Master's in Engineering Artificial Intelligence at Carnegie Mellon University, where I am working on cutting-edge projects like the Irembo LLM Chatbot and Malaria Digitization.Additionally, I am a **Research Group Member at the Center for AI and Digital Policy (CAIDP)**, where I contribute to global AI policy frameworks and human rights initiatives
+I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, Computer Vision, AI Policy, and Computational Social Science**. My work revolves around developing innovative AI-driven solutions that address real-world challenges, from improving productivity to promoting inclusivity in AI tools. I am deeply interested in the intersection of technology and society, particularly how AI can be used to create equitable and sustainable systems. Currently, I am pursuing a Master's in Engineering Artificial Intelligence at Carnegie Mellon University, where I am working on cutting-edge projects like the Irembo LLM Chatbot and Malaria Digitization. Additionally, I am a **Research Group Member at the Center for AI and Digital Policy (CAIDP)**, where I contribute to global AI policy frameworks and human rights initiatives
 
 ---
 
@@ -83,7 +83,7 @@ I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, 
 
 ## 💻 Skills  
 **Programming Languages:** Python, C++, R
-**Technologies:** Computer Vision, TensorFlow, OpenCV, NLP, REST APIs  
+**Technologies:** Computer Vision, TensorFlow, OpenCV, NLP, XAI, R
 **Languages:** English, French, Swahili, Chinese, Kinyarwanda  
 
 ---
