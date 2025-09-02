@@ -26,6 +26,14 @@ I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, 
 
 ## 💼 Experience  
 
+### **AI Engineer**  
+*tecGrw*  
+*April 2025 – Present*  
+- Lead end-to-end development of AI applications, from research and prototyping to deployment, ensuring scalable solutions for African markets.
+- Drive product strategy and roadmap as an AI Product Manager, aligning technical capabilities with business goals and user needs.
+- Optimize AI models and infrastructure to enhance performance, reliability, and user experience across deployed solutions.
+- Conduct research and implement innovative AI techniques, staying ahead of emerging trends to maintain a competitive edge in the African tech ecosystem.
+
 ### **Research Assistant (Malaria Digitization Project)**  
 *CMU-Africa*  
 *May 2024 – Present*  
@@ -89,7 +97,7 @@ I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, 
 ---
 
 ## 📫 Contact Me  
-- **Email:** kevinharrrimana@outlook.com  
+- **Email:** kevinharerimana@outlook.com  
 - **Phone:** +250792107463  
 - **LinkedIn:**[https://www.linkedin.com/in/kevin-harerimana-88641b1a4/](#)
 - **GitHub:**[https://github.com/Degrandlac](#)
