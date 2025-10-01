@@ -26,7 +26,7 @@ I am a passionate AI Engineer with a strong focus on **Artificial Intelligence, 
 
 ## 💼 Experience  
 
-### **AI Engineer**  
+### **AI Product Manager**  
 *tecGrw*  
 *April 2025 – Present*  
 - Lead end-to-end development of AI applications, from research and prototyping to deployment, ensuring scalable solutions for African markets.
